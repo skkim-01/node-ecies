@@ -17,6 +17,8 @@
 ```
 
 ##### cipher data struct
+ - https://github.com/bin-y/standard-ecies/blob/master/main.js
+ - cipher data format is slightly changed
 ```
   /// *** cipher data structure
   /// *** parse [ iv | R | c | D ]
